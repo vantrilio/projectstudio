@@ -1,6 +1,6 @@
 
 $.ajax({
-  url:'http://localhost/projectstudio/dist/dashboard/uploads/image.jpg',
+  url:'https://vantrilio.4-co.nl/projects/dashboard/uploads/image.jpg',
   type:'HEAD',
   error: function()
   {
