@@ -1,0 +1,7 @@
+input[type=file] {
+border:1px solid red;
+}
+
+.hidden {
+  display:none;
+}
