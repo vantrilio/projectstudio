@@ -1,6 +1,6 @@
 
 $.ajax({
-  url:'http://localhost/projectstudio/dist/dashboard/uploads/image.jpg',
+  url:'http://127.0.0.1:3000/dist/dashboard/uploads/image.jpg',
   type:'HEAD',
   error: function()
   {
